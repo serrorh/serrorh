@@ -1,120 +1,349 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#ff4c60">Serrorh</span></h1>
-<h3 align="center">🧠 Full-Stack Engineer | 🐍 Pythonista | 🛠️ Backend Architect | ✨ UI Dreamer</h3>
+<h1 align="center">👋 Welcome to <span style="color:#00BFFF">Serrorh's</span> Digital Universe</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=200&section=header&text=Full-Stack%20Engineer&fontSize=50&fontAlignY=35&desc=Building%20the%20Future%20With%20Code&descAlignY=60&animation=fadeIn" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=500&lines=I+code+with+faith+and+fire.;I+build+robust+systems+and+clean+UIs.;Python+%7C+PostgreSQL+%7C+Flutter+%7C+Node.js+%7C+Redux" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=600&lines=Python+%7C+TypeScript+%7C+Flutter+%7C+Node.js+%7C+Redux;Crafting+elegant+solutions+to+complex+problems;Building+scalable+systems+with+clean+architecture;Transforming+ideas+into+digital+reality" />
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/serrorh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:serrorh@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=safari&logoColor=white" /></a>
+</div>
 
 ---
 
-### 🚀 About Me
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</div>
 
-```python
-class Serrorh:
-    def __init__(self):
-        self.role = "Full-Stack Developer"
-        self.languages = [
-            "Python", "JavaScript", "TypeScript", "Dart", "C++", "SQL", "Bash", "HTML", "CSS"
-        ]
-        self.frontend = [
-            "React", "Redux", "Flutter", "Next.js", "Bootstrap", "Tailwind CSS"
-        ]
-        self.backend = [
-            "Node.js", "Express", "FastAPI", "Django", "GraphQL"
-        ]
-        self.databases = [
-            "PostgreSQL", "MongoDB", "MySQL", "Firebase", "SQLite"
-        ]
-        self.devops = ["Docker", "GitHub Actions", "Vercel", "Heroku"]
-        self.tools = ["Git", "VS Code", "Postman", "Insomnia"]
-        self.learning = ["AI Integration", "Cloud Scaling", "Flutter BLoC"]
-        self.faith = "My faith in Allah is a cord that will never be cut."
+## 🧠 About Me
+
+```typescript
+class Serrorh {
+  role: string = "Full-Stack Engineer";
+  company: string = "Rexior LLC";
+  
+  talents: {
+    languages: string[];
+    frontend: string[];
+    backend: string[];
+    databases: string[];
+    devops: string[];
+  } = {
+    languages: [
+      "Python", "TypeScript", "JavaScript", 
+      "Dart", "C++", "SQL", "Bash"
+    ],
+    frontend: [
+      "React", "Redux", "Flutter", 
+      "Next.js", "Tailwind CSS"
+    ],
+    backend: [
+      "Node.js", "Express", "FastAPI", 
+      "Django", "GraphQL"
+    ],
+    databases: [
+      "PostgreSQL", "MongoDB", "Firebase", 
+      "MySQL", "SQLite"
+    ],
+    devops: [
+      "Docker", "GitHub Actions", 
+      "Vercel", "Heroku"
+    ]
+  };
+  
+  currentlyLearning: string[] = [
+    "AI Integration", "Cloud Scaling", 
+    "Flutter BLoC Architecture"
+  ];
+  
+  quote: string = "Discipline and dua — that's how the mountains move. 🕊️";
+}
 ```
 
-- 🔭 Full-Stack Engineer at **Rexior LLC**
-- 🎨 Blending pixel-perfect UI with API wizardry
-- 🌐 Obsessed with scalable systems, elegant architecture, and secure logic
-- 🧠 Currently diving deeper into **system design and edge deployment**
+- 🔭 Creating scalable systems at **Rexior LLC** that handle real-world challenges
+- 🌱 Currently diving deep into **system design, edge deployment, and Flutter**
+- 💡 Passionate about building software that's intuitive, efficient, and impactful
+- 🎯 Focused on creating solutions that are as elegant under the hood as they are on the surface
+- 🌟 Believer in clean code principles and thoughtful architecture
 
 ---
 
-### 🧰 Tech Toolbox
+## 🛠️ My Tech Arsenal
 
-#### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+<details>
+<summary><b>📊 Tech Stack Visualization</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,dart,cpp,html,css&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,redux,flutter,nextjs,tailwind,bootstrap&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,sqlite&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,github,git,vscode,vercel,heroku&theme=dark" />
+</div>
+</details>
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss)
+### Languages & Frameworks
 
-#### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-black?logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+<div align="left">
+
+#### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### 🧪 Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### ⚙️ Tools & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)
+#### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serrorh&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://streak-stats.demolab.com/?user=serrorh&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serrorh&layout=compact&theme=radical" alt="top langs" />
-</p>
+</div>
 
 ---
 
-### 📸 Aesthetic Snapshot
+## 🌟 Featured Projects
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5d/f7/0d/5df70d9e58b4b5a57e9f04c8ce927520.gif" width="400">
-</p>
+<div align="center">
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-1&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-2&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-3&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
+  </a>
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-4&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
+  </a>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Analytics
 
-- 📧 Email: `serrorh@example.com`
-- 💼 LinkedIn: [linkedin.com/in/serrorh](https://linkedin.com/in/serrorh)
-- 🌎 Portfolio: Coming Soon...
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=serrorh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=serrorh&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serrorh&theme=algolia&hide_border=true" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serrorh&layout=compact&theme=algolia&hide_border=true" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serrorh&theme=react-dark&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
 
-### 📜 Philosophy
+## 📚 Latest Blog Posts
 
-> "Discipline and dua — that’s how the mountains move." 🕊️
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable Flutter Applications: BLoC Pattern Explained](https://yourwebsite.com)
+- [Modern Python Patterns for Cleaner Code](https://yourwebsite.com)
+- [Next.js + GraphQL: The Perfect Duo for Modern Web Apps](https://yourwebsite.com)
+- [Implementing CI/CD for Full-Stack Applications](https://yourwebsite.com)
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4c60,100:6c63ff&height=140&section=footer" />
-</p>
+---
+
+## 📌 Code Snippets I Live By
+
+<details>
+<summary><b>🔄 Custom React Hook for API Calls</b></summary>
+
+```typescript
+import { useState, useEffect } from 'react';
+
+export const useApi = <T>(url: string) => {
+  const [data, setData] = useState<T | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<Error | null>(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error(`API error: ${response.status}`);
+        }
+        const result = await response.json();
+        setData(result);
+      } catch (err) {
+        setError(err instanceof Error ? err : new Error(String(err)));
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [url]);
+
+  return { data, loading, error };
+};
+```
+</details>
+
+<details>
+<summary><b>🐍 Python Decorator for Performance Tracking</b></summary>
+
+```python
+import time
+import functools
+from typing import Callable, Any
+
+def track_performance(func: Callable) -> Callable:
+    """Decorator to track the execution time of a function."""
+    @functools.wraps(func)
+    def wrapper(*args: Any, **kwargs: Any) -> Any:
+        start_time = time.perf_counter()
+        result = func(*args, **kwargs)
+        end_time = time.perf_counter()
+        print(f"{func.__name__} took {end_time - start_time:.4f} seconds to run")
+        return result
+    return wrapper
+
+@track_performance
+def complex_operation(n: int) -> list:
+    return sorted([i**2 for i in range(n)], reverse=True)
+```
+</details>
+
+<details>
+<summary><b>🎯 Flutter BLoC Pattern Implementation</b></summary>
+
+```dart
+// BLoC Event
+abstract class CounterEvent {}
+
+class IncrementEvent extends CounterEvent {}
+class DecrementEvent extends CounterEvent {}
+
+// BLoC State
+class CounterState {
+  final int count;
+  CounterState(this.count);
+}
+
+// BLoC
+class CounterBloc {
+  int _count = 0;
+  
+  final _stateController = StreamController<CounterState>();
+  Stream<CounterState> get state => _stateController.stream;
+  
+  final _eventController = StreamController<CounterEvent>();
+  Sink<CounterEvent> get event => _eventController.sink;
+  
+  CounterBloc() {
+    _eventController.stream.listen(_mapEventToState);
+  }
+  
+  void _mapEventToState(CounterEvent event) {
+    if (event is IncrementEvent) {
+      _count++;
+    } else if (event is DecrementEvent) {
+      _count--;
+    }
+    
+    _stateController.add(CounterState(_count));
+  }
+  
+  void dispose() {
+    _stateController.close();
+    _eventController.close();
+  }
+}
+```
+</details>
+
+---
+
+## 🔄 My Coding Journey
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+    <div style="margin-left: 20px;">
+      <p>
+        My coding journey began with Python and a passion for solving complex problems. As I honed my skills, I expanded into full-stack development, mastering frameworks like React, Flutter, and Node.js.
+      </p>
+      <p>
+        Today, I architect scalable solutions at Rexior LLC, where I blend frontend finesse with backend robustness to create applications that stand the test of time and scale.
+      </p>
+      <p>
+        Every line of code I write is guided by principles of maintainability, performance, and user experience. I believe great software should be invisible, empowering users without getting in their way.
+      </p>
+    </div>
+  </div>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/serrorh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=algolia&animation=grow_out_in&layout=default&font=default" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/serrorh/count.svg" alt="Visitor Count" />
+  <p>Thank you for visiting my profile! 🙏</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=150&section=footer" width="100%">
+</div>
