@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to <span style="color:#00BFFF">Serrorh's</span> Digital Universe</h1>
+<h1 align="center"> Welcome to Digital Universe</h1>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=200&section=header&text=Full-Stack%20Engineer&fontSize=50&fontAlignY=35&desc=Building%20the%20Future%20With%20Code&descAlignY=60&animation=fadeIn" width="100%">
 </div>
