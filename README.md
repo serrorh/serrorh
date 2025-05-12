@@ -138,22 +138,7 @@ class Serrorh {
 
 ---
 
-## 🌟 Featured Projects
 
-<div align="center">
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-1&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-2&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-3&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
-  </a>
-  <a href="#">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=serrorh&repo=project-name-4&theme=react&bg_color=0D1117&title_color=00BFFF&icon_color=F8D866&hide_border=true" />
-  </a>
-</div>
 
 ---
 
