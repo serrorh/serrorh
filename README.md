@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </div>
 
-## 🧠 About Me
+
 
 ```typescript
 class Serrorh {
@@ -68,7 +68,7 @@ class Serrorh {
 
 ---
 
-## 🛠️ My Tech Arsenal
+
 
 <details>
 <summary><b>📊 Tech Stack Visualization</b></summary>
@@ -86,11 +86,11 @@ class Serrorh {
 </div>
 </details>
 
-### Languages & Frameworks
+
 
 <div align="left">
 
-#### 🖥️ Languages
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -138,7 +138,7 @@ class Serrorh {
 
 ---
 
-## 📊 GitHub Analytics
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=serrorh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
@@ -152,7 +152,6 @@ class Serrorh {
 
 ---
 
-## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Building Scalable Flutter Applications: BLoC Pattern Explained](https://yourwebsite.com)
@@ -163,7 +162,7 @@ class Serrorh {
 
 ---
 
-## 📌 Code Snippets I Live By
+
 
 <details>
 <summary><b>🔄 Custom React Hook for API Calls</b></summary>
@@ -276,7 +275,7 @@ class CounterBloc {
 
 ---
 
-## 🔄 My Coding Journey
+
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
