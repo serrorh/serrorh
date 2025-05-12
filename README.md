@@ -7,11 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&width=600&lines=Python+%7C+TypeScript+%7C+Flutter+%7C+Node.js+%7C+Redux;Crafting+elegant+solutions+to+complex+problems;Building+scalable+systems+with+clean+architecture;Transforming+ideas+into+digital+reality" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/serrorh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:serrorh@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</div>
+
 
 ---
 
