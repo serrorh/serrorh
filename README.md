@@ -1,13 +1,9 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#ff4c60">Serrorh</span></h1>
-<h3 align="center">🧠 Full-Stack Engineer | 🐍 Pythonista | 🛠️ System Crafter | ✨ UI Dreamer</h3>
+<h3 align="center">🧠 Full-Stack Engineer | 🐍 Pythonista | 🛠️ Backend Architect | ✨ UI Dreamer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=435&lines=I+code+with+faith+and+fire.;I+build+with+Python+and+purpose.;Full-Stack+Developer+%7C+Designer+%7C+Doer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=serrorh&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&width=500&lines=I+code+with+faith+and+fire.;I+build+robust+systems+and+clean+UIs.;Python+%7C+PostgreSQL+%7C+Flutter+%7C+Node.js+%7C+Redux" />
 </p>
 
 ---
@@ -18,17 +14,28 @@
 class Serrorh:
     def __init__(self):
         self.role = "Full-Stack Developer"
-        self.languages = ["Python", "JavaScript", "Dart", "C++", "SQL", "Bash"]
-        self.stack = ["React", "Node.js", "PostgreSQL", "MongoDB", "Flutter", "Redux"]
-        self.tools = ["Docker", "Git", "VS Code", "Firebase", "GraphQL"]
-        self.learning = ["AI Integration", "Flutter BLoC", "DevOps"]
+        self.languages = [
+            "Python", "JavaScript", "TypeScript", "Dart", "C++", "SQL", "Bash", "HTML", "CSS"
+        ]
+        self.frontend = [
+            "React", "Redux", "Flutter", "Next.js", "Bootstrap", "Tailwind CSS"
+        ]
+        self.backend = [
+            "Node.js", "Express", "FastAPI", "Django", "GraphQL"
+        ]
+        self.databases = [
+            "PostgreSQL", "MongoDB", "MySQL", "Firebase", "SQLite"
+        ]
+        self.devops = ["Docker", "GitHub Actions", "Vercel", "Heroku"]
+        self.tools = ["Git", "VS Code", "Postman", "Insomnia"]
+        self.learning = ["AI Integration", "Cloud Scaling", "Flutter BLoC"]
         self.faith = "My faith in Allah is a cord that will never be cut."
 ```
 
 - 🔭 Full-Stack Engineer at **Rexior LLC**
-- 🎨 Blending UX passion with backend mastery
-- 🌐 I architect clean, scalable, and beautiful systems
-- 🧠 Current focus: mastering **state management & cloud scaling**
+- 🎨 Blending pixel-perfect UI with API wizardry
+- 🌐 Obsessed with scalable systems, elegant architecture, and secure logic
+- 🧠 Currently diving deeper into **system design and edge deployment**
 
 ---
 
@@ -41,13 +48,22 @@ class Serrorh:
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 
-#### 🧠 Frameworks & Libraries
+#### 🌐 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwindcss)
+
+#### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-black?logo=express)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 
 #### 🧪 Databases
@@ -55,13 +71,17 @@ class Serrorh:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 
-#### 🛠️ Tools
+#### ⚙️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?logo=insomnia)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)
 
 ---
 
