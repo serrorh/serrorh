@@ -316,14 +316,6 @@ class CounterBloc {
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=algolia&animation=grow_out_in&layout=default&font=default" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/serrorh/count.svg" alt="Visitor Count" />
-  <p>Thank you for visiting my profile! 🙏</p>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,30&height=150&section=footer" width="100%">
